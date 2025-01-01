@@ -18,7 +18,7 @@ Each folder represents a standalone Go project with its own `go.mod` and `go.sum
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:yourusername/retro-games.git
+   git clone https://github.com/Vishal2369/Retro-games-go
    cd retro-games
    ```
 
