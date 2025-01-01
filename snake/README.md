@@ -2,7 +2,7 @@
 
 This folder contains the implementation of the classic **Snake Game**, built using **Go** and **Raylib**. Enjoy the retro feel with smooth graphics and sound effects.
 
-![Snake Game Screenshot](./snake/gameplay.png)
+![Snake Game Screenshot](./gameplay.png)
 
 ## Features
 - Dynamic gameplay.
