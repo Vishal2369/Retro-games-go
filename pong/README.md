@@ -2,8 +2,8 @@
 
 This folder contains the implementation of the retro **Pong Game**, developed using **Go** and **Raylib**.
 
-![Pong Game Opening Screenshot](./pong/opening.png)
-![Pong Game Gameplay Screenshot](./pong/gameplay.png)
+![Pong Game Opening Screenshot](./opening.png)
+![Pong Game Gameplay Screenshot](./gameplay.png)
 
 
 ## Features
