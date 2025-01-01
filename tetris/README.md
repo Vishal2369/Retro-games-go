@@ -2,7 +2,7 @@
 
 This folder contains the implementation of the legendary **Tetris Game**, built using **Go** and **Raylib**. Stack, clear lines, and aim for the highest score!
 
-![Tetris Game Screenshot](./tetris/gameplay.png)
+![Tetris Game Screenshot](./gameplay.png)
 
 ## Features
 - Rotatable and movable tetrominoes.
