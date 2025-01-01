@@ -29,7 +29,7 @@ Each folder represents a standalone Go project with its own `go.mod` and `go.sum
 
 3. Build and run the game:
    ```bash
-   go run main.go
+   go run .
    ```
 
 Make sure you have Go installed and configured on your system. You also need to install the Raylib bindings for Go.
